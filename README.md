@@ -1,2 +1,2 @@
 # Guess-the-number
-A simple game made 
+A simple game build by using HTML, CSS and JavaScript
